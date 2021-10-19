@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/andr3/Documents/coding/cpp/gameengine",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/GameObject.dir/lib/GameObject.cpp.o -c /home/andr3/Documents/coding/cpp/gameengine/lib/GameObject.cpp",
+  "file": "/home/andr3/Documents/coding/cpp/gameengine/lib/GameObject.cpp"
+},
+{
+  "directory": "/home/andr3/Documents/coding/cpp/gameengine",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/UEngine.dir/UEngine.cpp.o -c /home/andr3/Documents/coding/cpp/gameengine/UEngine.cpp",
+  "file": "/home/andr3/Documents/coding/cpp/gameengine/UEngine.cpp"
+},
+{
+  "directory": "/home/andr3/Documents/coding/cpp/gameengine",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/andr3/Documents/coding/cpp/gameengine/main.cpp",
+  "file": "/home/andr3/Documents/coding/cpp/gameengine/main.cpp"
+}
+]
